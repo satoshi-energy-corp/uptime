@@ -27,7 +27,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Satoshi Energy
+    - title: Home
       href: https://satoshienergy.com
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
