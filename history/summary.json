@@ -58,19 +58,19 @@
     "url": "$HASURA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hasura",
-    "status": "down",
-    "uptime": "97.85%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "97.85%",
-    "time": 456,
-    "timeDay": 442,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "93.79%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 464,
+    "timeDay": 456,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2022-06-29": 68
+      "2022-06-29": 90
     }
   },
   {
