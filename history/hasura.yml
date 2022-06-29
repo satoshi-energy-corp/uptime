@@ -1,7 +1,7 @@
 url: $HASURA_URL
-status: up
-code: 200
-responseTime: 387
-lastUpdated: 2022-06-29T03:02:02.635Z
+status: down
+code: 403
+responseTime: 164
+lastUpdated: 2022-06-29T07:04:07.041Z
 startTime: Mon Jun 27 2022 10:20:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
