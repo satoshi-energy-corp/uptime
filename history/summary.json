@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.satoshienergy.com",
     "slug": "website-www",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 153,
-    "timeWeek": 213,
+    "timeDay": 171,
+    "timeWeek": 215,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2022-07-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website (non-www)",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/satoshienergy.com",
     "slug": "website-non-www",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 243,
-    "timeDay": 187,
-    "timeWeek": 202,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {
-      "2022-07-20": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 245,
+    "timeDay": 207,
+    "timeWeek": 221,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web App",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 68,
-    "timeWeek": 140,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 119,
+    "timeDay": 88,
+    "timeWeek": 137,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -63,20 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hasura",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 440,
-    "timeDay": 772,
-    "timeWeek": 525,
-    "timeMonth": 440,
-    "timeYear": 440,
-    "dailyMinutesDown": {
-      "2022-06-30": 120,
-      "2022-06-29": 74
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 464,
+    "timeDay": 1747,
+    "timeWeek": 624,
+    "timeMonth": 464,
+    "timeYear": 464,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog (Ghost)",
@@ -89,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 110,
-    "timeWeek": 105,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 90,
+    "timeDay": 65,
+    "timeWeek": 100,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   }
 ]
