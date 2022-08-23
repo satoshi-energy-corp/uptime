@@ -7,12 +7,16 @@ sites:
     url: https://www.satoshienergy.com
   - name: Website (non-www)
     url: https://satoshienergy.com
-  - name: Web App
-    url: https://app.satoshienergy.com
-  - name: Hasura
-    url: $HASURA_URL
   - name: Blog (Ghost)
     url: https://research.satoshienergy.com
+  - name: Platform/Front-end
+    url: https://app.satoshienergy.com
+  - name: Platform/Hasura
+    url: $HASURA_URL
+  - name: Stargazer/Hasura
+    url: $STARGAZER_HASURA
+  - name: Stargazer/Nodejs
+    url: $STARGAZER_NODEJS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
