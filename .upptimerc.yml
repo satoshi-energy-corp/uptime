@@ -15,6 +15,7 @@ sites:
     url: $HASURA_URL
   - name: Stargazer/Hasura
     url: $STARGAZER_HASURA
+    method: POST
   - name: Stargazer/Nodejs
     url: $STARGAZER_NODEJS
 
