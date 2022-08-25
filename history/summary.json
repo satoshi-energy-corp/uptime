@@ -94,19 +94,19 @@
     "url": "$STARGAZER_HASURA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stargazer-hasura",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 127,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 127,
+    "timeDay": 154,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 10
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$STARGAZER_NODEJS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stargazer-nodejs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 132,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 140,
+    "timeDay": 151,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 10
     }
   }
 ]
