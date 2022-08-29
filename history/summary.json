@@ -4,19 +4,19 @@
     "url": "https://www.satoshienergy.com",
     "icon": "https://favicons.githubusercontent.com/www.satoshienergy.com",
     "slug": "website-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 218,
-    "timeWeek": 192,
-    "timeMonth": 257,
-    "timeYear": 241,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 248,
+    "timeDay": 491,
+    "timeWeek": 249,
+    "timeMonth": 272,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-08-29": 0
+      "2022-08-29": 5
     }
   },
   {
