@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.satoshienergy.com",
     "slug": "website-www",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 247,
     "timeDay": 471,
     "timeWeek": 258,
     "timeMonth": 268,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2022-08-30": 1
+      "2022-08-30": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://satoshienergy.com",
     "icon": "https://favicons.githubusercontent.com/satoshienergy.com",
     "slug": "website-non-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 252,
-    "timeWeek": 244,
-    "timeMonth": 243,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 251,
+    "timeDay": 293,
+    "timeWeek": 253,
+    "timeMonth": 246,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 8
     }
   },
   {
