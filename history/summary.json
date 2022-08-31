@@ -4,20 +4,18 @@
     "url": "https://www.satoshienergy.com",
     "icon": "https://favicons.githubusercontent.com/www.satoshienergy.com",
     "slug": "website-www",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 471,
-    "timeWeek": 258,
-    "timeMonth": 268,
+    "timeDay": 241,
+    "timeWeek": 257,
+    "timeMonth": 267,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-08-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website (non-www)",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/satoshienergy.com",
     "slug": "website-non-www",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 293,
-    "timeWeek": 253,
-    "timeMonth": 246,
+    "timeDay": 313,
+    "timeWeek": 246,
+    "timeMonth": 250,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2022-08-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog (Ghost)",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 135,
-    "timeWeek": 113,
+    "time": 142,
+    "timeDay": 65,
+    "timeWeek": 111,
     "timeMonth": 109,
-    "timeYear": 143,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 50,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 132,
+    "timeDay": 32,
+    "timeWeek": 94,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 116,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 279,
+    "timeDay": 142,
+    "timeWeek": 305,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 123,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "time": 124,
+    "timeDay": 108,
+    "timeWeek": 129,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 109,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 137,
+    "timeDay": 166,
+    "timeWeek": 140,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   }
 ]
