@@ -94,18 +94,20 @@
     "url": "$STARGAZER_HASURA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stargazer-hasura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 157,
-    "timeWeek": 168,
-    "timeMonth": 138,
-    "timeYear": 136,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 189,
+    "timeWeek": 175,
+    "timeMonth": 140,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2022-09-25": 0
+    }
   },
   {
     "name": "Stargazer/Nodejs",
@@ -121,7 +123,7 @@
     "time": 136,
     "timeDay": 111,
     "timeWeek": 160,
-    "timeMonth": 137,
+    "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {}
   }
