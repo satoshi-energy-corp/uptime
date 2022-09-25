@@ -94,19 +94,19 @@
     "url": "$STARGAZER_HASURA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stargazer-hasura",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 189,
-    "timeWeek": 175,
+    "timeDay": 178,
+    "timeWeek": 173,
     "timeMonth": 140,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-09-25": 0
+      "2022-09-25": 6
     }
   },
   {
