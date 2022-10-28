@@ -58,9 +58,9 @@
     "url": "https://app.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.satoshienergy.com.ico",
     "slug": "platform-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 131,
     "timeMonth": 188,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "Platform/Hasura",
