@@ -24,19 +24,19 @@
     "url": "https://satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/satoshienergy.com.ico",
     "slug": "website-non-www",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 348,
-    "timeWeek": 234,
-    "timeMonth": 223,
+    "timeDay": 310,
+    "timeWeek": 238,
+    "timeMonth": 225,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-12-10": 0
+      "2022-12-10": 5
     }
   },
   {
