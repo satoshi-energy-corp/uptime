@@ -24,18 +24,20 @@
     "url": "https://satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/satoshienergy.com.ico",
     "slug": "website-non-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 230,
+    "timeDay": 348,
     "timeWeek": 234,
     "timeMonth": 223,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-10": 0
+    }
   },
   {
     "name": "Blog (Ghost)",
