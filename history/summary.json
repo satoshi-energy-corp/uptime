@@ -98,19 +98,19 @@
     "url": "$STARGAZER_HASURA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stargazer-hasura",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 123,
-    "timeWeek": 123,
-    "timeMonth": 130,
-    "timeYear": 136,
+    "time": 137,
+    "timeDay": 139,
+    "timeWeek": 127,
+    "timeMonth": 131,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-01-06": 0
+      "2023-01-06": 5
     }
   },
   {
