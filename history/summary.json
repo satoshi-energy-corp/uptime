@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stargazer-hasura",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 136,
     "timeDay": 111,
     "timeWeek": 130,
     "timeMonth": 131,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 31
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "$STARGAZER_NODEJS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stargazer-nodejs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 134,
     "timeDay": 134,
-    "timeWeek": 131,
+    "timeWeek": 132,
     "timeMonth": 136,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 31
     }
   }
 ]
