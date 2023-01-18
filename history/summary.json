@@ -138,19 +138,19 @@
     "url": "https://www.ercot.com/misapp/GetReports.do?reportTypeId=12301",
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-spp",
-    "status": "down",
-    "uptime": "11.14%",
-    "uptimeDay": "11.14%",
-    "uptimeWeek": "11.14%",
-    "uptimeMonth": "11.14%",
-    "uptimeYear": "11.14%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "2.88%",
+    "uptimeDay": "2.88%",
+    "uptimeWeek": "2.88%",
+    "uptimeMonth": "2.88%",
+    "uptimeYear": "2.88%",
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-01-18": 0
+      "2023-01-18": 6
     }
   },
   {
