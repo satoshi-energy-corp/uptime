@@ -138,19 +138,19 @@
     "url": "https://www.ercot.com/misapp/GetReports.do?reportTypeId=12301",
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-spp",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 1142,
-    "timeDay": 2522,
-    "timeWeek": 1142,
-    "timeMonth": 1142,
-    "timeYear": 1142,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
+    "time": 951,
+    "timeDay": 1356,
+    "timeWeek": 951,
+    "timeMonth": 951,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-01-19": 16
+      "2023-01-19": 32
     }
   },
   {
@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-demand",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 79,
     "timeDay": 115,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 17
     }
   },
   {
