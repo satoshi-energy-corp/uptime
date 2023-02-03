@@ -23,7 +23,7 @@ sites:
   - name: ERCOT - SPP
     url: https://www.ercot.com/misapp/GetReports.do?reportTypeId=12301
   - name: ERCOT - Demand
-    url: https://www.ercot.com/api/1/services/read/dashboards/todays-outlook.json
+    url: https://www.ercot.com/api/1/services/read/dashboards/supply-demand.json
   - name: ERCOT - Indicative
     url: https://www.ercot.com/content/cdr/html/rtd_ind_lmp_lz_hb_LZ_WEST.html
 
