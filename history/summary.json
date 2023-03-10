@@ -4,10 +4,10 @@
     "url": "https://www.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.satoshienergy.com.ico",
     "slug": "website-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 299,
@@ -16,6 +16,7 @@
     "timeMonth": 201,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2023-03-10": 1,
       "2022-11-02": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/satoshienergy.com.ico",
     "slug": "website-non-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 227,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2022-12-20": 2
     }
   },
@@ -159,11 +161,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-demand",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 30,
     "timeDay": 10,
     "timeWeek": 15,
