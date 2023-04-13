@@ -140,11 +140,11 @@
     "url": "https://www.ercot.com/misapp/GetReports.do?reportTypeId=12301",
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-spp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 1710,
     "timeDay": 230,
@@ -152,6 +152,7 @@
     "timeMonth": 2246,
     "timeYear": 1710,
     "dailyMinutesDown": {
+      "2023-04-13": 3,
       "2023-03-15": 78,
       "2023-01-19": 32
     }
@@ -161,10 +162,10 @@
     "url": "https://www.ercot.com/api/1/services/read/dashboards/supply-demand.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-demand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.52%",
     "time": 205,
@@ -173,6 +174,7 @@
     "timeMonth": 502,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2023-04-13": 2,
       "2023-03-15": 34,
       "2023-02-03": 527,
       "2023-01-19": 22
@@ -183,9 +185,9 @@
     "url": "https://www.ercot.com/content/cdr/html/rtd_ind_lmp_lz_hb_LZ_WEST.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.ercot.com.ico",
     "slug": "ercot-indicative",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -195,6 +197,7 @@
     "timeMonth": 281,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-01-20": 15,
       "2023-01-19": 3
     }
