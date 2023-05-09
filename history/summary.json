@@ -101,19 +101,19 @@
     "url": "$STARGAZER_HASURA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stargazer-hasura",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 132,
-    "timeDay": 126,
-    "timeWeek": 124,
+    "timeDay": 116,
+    "timeWeek": 121,
     "timeMonth": 119,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-05-09": 0,
+      "2023-05-09": 12,
       "2023-01-13": 60
     }
   },
@@ -124,9 +124,9 @@
     "slug": "stargazer-nodejs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 169,
     "timeDay": 112,
@@ -134,7 +134,6 @@
     "timeMonth": 120,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2023-05-09": 6,
       "2023-03-18": 26,
       "2023-01-13": 31
     }
