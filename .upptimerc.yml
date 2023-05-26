@@ -26,6 +26,9 @@ sites:
     url: https://www.ercot.com/api/1/services/read/dashboards/supply-demand.json
   - name: ERCOT - Indicative
     url: https://www.ercot.com/content/cdr/html/rtd_ind_lmp_lz_hb_LZ_WEST.html
+  - name: Noco
+    url: $NOCODB_URL
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
