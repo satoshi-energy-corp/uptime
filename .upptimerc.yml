@@ -30,6 +30,7 @@ sites:
     url: $NOCO_URL
   - name: Stargazer/CEM
     url: https://cem.satoshienergy.com
+    maxRedirects: 10
     
 
 status-website:
