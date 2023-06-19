@@ -15,6 +15,7 @@ sites:
     url: https://app.satoshienergy.com
   - name: Platform/Hasura
     url: $HASURA_URL
+    maxRedirects: 10
   - name: Stargazer/Hasura
     url: $STARGAZER_HASURA
     method: POST
@@ -28,6 +29,7 @@ sites:
     url: https://www.ercot.com/content/cdr/html/rtd_ind_lmp_lz_hb_LZ_WEST.html
   - name: Noco
     url: $NOCO_URL
+    maxRedirects: 10
   - name: Stargazer/CEM
     url: https://cem.satoshienergy.com
     maxRedirects: 10
