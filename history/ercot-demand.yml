@@ -1,7 +1,7 @@
 url: https://www.ercot.com/api/1/services/read/dashboards/supply-demand.json
 status: up
 code: 200
-responseTime: 36
-lastUpdated: 2023-08-21T23:03:48.438Z
+responseTime: 10
+lastUpdated: 2023-08-22T23:03:51.456Z
 startTime: 2023-01-18T20:09:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
