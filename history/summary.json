@@ -215,18 +215,19 @@
     "url": "$NOCO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noco",
-    "status": "up",
-    "uptime": "76.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "76.96%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.82%",
+    "uptimeYear": "76.96%",
     "time": 469,
     "timeDay": 464,
     "timeWeek": 459,
     "timeMonth": 467,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2023-09-07": 2,
       "2023-06-19": 975,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -259,9 +260,9 @@
     "url": "https://cem.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/cem.satoshienergy.com.ico",
     "slug": "stargazer-cem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,6 +271,8 @@
     "timeWeek": 392,
     "timeMonth": 398,
     "timeYear": 415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   }
 ]
