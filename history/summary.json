@@ -83,19 +83,19 @@
     "url": "$HASURA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "platform-hasura",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 435,
-    "timeWeek": 330,
+    "timeDay": 397,
+    "timeWeek": 329,
     "timeMonth": 324,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 10
     }
   },
   {
