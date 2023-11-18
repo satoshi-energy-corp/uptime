@@ -12,7 +12,7 @@ sites:
   - name: Blog (Ghost)
     url: https://research.satoshienergy.com
   - name: Platform/Front-end
-    url: https://app.satoshienergy.com
+    url: $DATA_ROOM_FRONT_END
   - name: Platform/Hasura
     url: $HASURA_URL
     maxRedirects: 10
@@ -56,4 +56,4 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: "[Bitcoin is energy backed money.](https://satoshienergy.com)"
+  footer: "[Energy finance built on bitcoin.](https://satoshienergy.com)"
