@@ -1,7 +1,7 @@
 url: $NOCO_URL
-status: down
-code: 502
-responseTime: 12091
-lastUpdated: 2023-12-07T19:09:36.405Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2023-12-07T19:15:58.834Z
 startTime: 2023-05-26T17:46:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
