@@ -13,7 +13,7 @@
     "time": 401,
     "timeDay": 196,
     "timeWeek": 458,
-    "timeMonth": 489,
+    "timeMonth": 499,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2023-04-21": 58,
@@ -34,7 +34,7 @@
     "time": 176,
     "timeDay": 14,
     "timeWeek": 68,
-    "timeMonth": 65,
+    "timeMonth": 64,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2023-04-21": 58,
@@ -66,18 +66,16 @@
     "slug": "platform-front-end",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 101,
     "timeWeek": 141,
     "timeMonth": 114,
     "timeYear": 126,
-    "dailyMinutesDown": {
-      "2023-12-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Platform/Hasura",
@@ -222,18 +220,19 @@
     "url": "$NOCO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noco",
-    "status": "up",
-    "uptime": "87.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "87.73%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.72%",
-    "time": 460,
-    "timeDay": 275,
-    "timeWeek": 448,
-    "timeMonth": 454,
-    "timeYear": 460,
+    "uptimeYear": "87.73%",
+    "time": 526,
+    "timeDay": 6183,
+    "timeWeek": 1903,
+    "timeMonth": 818,
+    "timeYear": 526,
     "dailyMinutesDown": {
+      "2023-12-07": 1,
       "2023-06-19": 975,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -266,17 +265,19 @@
     "url": "https://cem.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/cem.satoshienergy.com.ico",
     "slug": "stargazer-cem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 304,
-    "timeWeek": 390,
-    "timeMonth": 367,
-    "timeYear": 401,
-    "dailyMinutesDown": {}
+    "time": 468,
+    "timeDay": 6224,
+    "timeWeek": 1860,
+    "timeMonth": 735,
+    "timeYear": 468,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   }
 ]
