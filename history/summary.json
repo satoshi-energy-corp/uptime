@@ -264,19 +264,19 @@
     "url": "https://cem.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/cem.satoshienergy.com.ico",
     "slug": "stargazer-cem",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 4755,
-    "timeWeek": 2580,
-    "timeMonth": 1100,
-    "timeYear": 546,
+    "time": 545,
+    "timeDay": 4132,
+    "timeWeek": 2412,
+    "timeMonth": 1081,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 5
     }
   }
 ]
