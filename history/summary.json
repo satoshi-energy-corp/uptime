@@ -222,9 +222,9 @@
     "slug": "noco",
     "status": "up",
     "uptime": "87.73%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "87.73%",
     "time": 573,
     "timeDay": 4461,
@@ -232,7 +232,6 @@
     "timeMonth": 1032,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-12-07": 5,
       "2023-06-19": 975,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -265,19 +264,19 @@
     "url": "https://cem.satoshienergy.com",
     "icon": "https://icons.duckduckgo.com/ip3/cem.satoshienergy.com.ico",
     "slug": "stargazer-cem",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 498,
-    "timeDay": 3870,
-    "timeWeek": 1980,
-    "timeMonth": 869,
-    "timeYear": 498,
+    "time": 546,
+    "timeDay": 4755,
+    "timeWeek": 2580,
+    "timeMonth": 1100,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-12-07": 5
+      "2023-12-07": 0
     }
   }
 ]
