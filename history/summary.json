@@ -13,7 +13,7 @@
     "time": 401,
     "timeDay": 196,
     "timeWeek": 458,
-    "timeMonth": 487,
+    "timeMonth": 489,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2023-04-21": 58,
@@ -34,7 +34,7 @@
     "time": 176,
     "timeDay": 14,
     "timeWeek": 68,
-    "timeMonth": 76,
+    "timeMonth": 65,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2023-04-21": 58,
@@ -64,9 +64,9 @@
     "url": "$DATA_ROOM_FRONT_END",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "platform-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 147,
     "timeMonth": 115,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Platform/Hasura",
@@ -206,7 +208,7 @@
     "uptimeYear": "99.99%",
     "time": 324,
     "timeDay": 125,
-    "timeWeek": 1517,
+    "timeWeek": 123,
     "timeMonth": 517,
     "timeYear": 324,
     "dailyMinutesDown": {
@@ -221,11 +223,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "noco",
     "status": "up",
-    "uptime": "87.68%",
+    "uptime": "87.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.68%",
+    "uptimeYear": "87.72%",
     "time": 460,
     "timeDay": 275,
     "timeWeek": 448,
