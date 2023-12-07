@@ -64,19 +64,19 @@
     "url": "$DATA_ROOM_FRONT_END",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "platform-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 102,
-    "timeWeek": 147,
-    "timeMonth": 115,
-    "timeYear": 127,
+    "timeDay": 101,
+    "timeWeek": 141,
+    "timeMonth": 114,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 5
     }
   },
   {
