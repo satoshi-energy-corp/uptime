@@ -1,7 +1,7 @@
 url: $STARGAZER_HASURA
-status: down
-code: 500
-responseTime: 103
-lastUpdated: 2023-12-24T16:20:32.241Z
+status: up
+code: 200
+responseTime: 137
+lastUpdated: 2023-12-24T16:28:48.352Z
 startTime: 2022-08-23T20:13:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
