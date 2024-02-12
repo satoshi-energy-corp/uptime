@@ -1,7 +1,7 @@
 url: https://www.ercot.com/misapp/GetReports.do?reportTypeId=12301
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-12T13:55:56.144Z
+status: up
+code: 200
+responseTime: 117
+lastUpdated: 2024-02-12T14:14:43.513Z
 startTime: 2023-01-18T20:09:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
